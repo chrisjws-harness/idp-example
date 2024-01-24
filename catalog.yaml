@@ -17,7 +17,7 @@ spec:
     - starwars-graphql
 apiVersion: backstage.io/v1alpha1
 metadata:
-  name: Lambda API
+  name: Lambda-API
   description: My New Lambda
   tags: 
     - python
