@@ -18,27 +18,10 @@ spec:
 apiVersion: backstage.io/v1alpha1
 metadata:
   name: lambda-e2e
-  description: ASDF
-  links:
-    - url: http://34.67.7.165/
-      title: Prod Website
-      icon: dashboard
-      type: Boutique FrontEnd
-    - url: http://34.28.46.65
-      title: QA Website
-      icon: dashboard
-      type: Boutique FrontEnd
-    - url: http://34.135.60.81/
-      title: Dev Website
-      icon: dashboard
-      type: Boutique FrontEnd
+  description: My New Lambda
   tags: 
-    - go
+    - python
   annotations:
-    harness.io/project-url: https://app.harness.io/ng/account/6_vVHzo9Qeu9fXvj-AcbCQ/home/orgs/default/projects/Platform_Demo/details
-    harness.io/cd-serviceId: Boutique_Frontend
+    harness.io/cd-serviceId: Python_AWS_Lambda
     backstage.io/techdocs-ref: dir:.
-    github.com/project-slug: wings-software/e2e-enterprise-demo
-    backstage.io/kubernetes-label-selector: 'backstage.io/kubernetes-id=boutique-frontend'
-    backstage.io/kubernetes-id: boutique-frontend
-    pagerduty.com/service-id: PGXMVMC
+    github.com/project-slug: chrisjws-harness/python-lambda-starter
