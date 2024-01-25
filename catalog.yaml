@@ -22,7 +22,6 @@ metadata:
   tags: 
     - python
   annotations:
-    harness.io/cd-serviceId: Python_AWS_Lambda
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: chrisjws-harness/idp-example
     harness.io/project-url: https://app.harness.io/ng/account/6_vVHzo9Qeu9fXvj-AcbCQ/home/orgs/default/projects/Platform_Demo/details
