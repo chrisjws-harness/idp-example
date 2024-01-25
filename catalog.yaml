@@ -25,5 +25,4 @@ metadata:
     harness.io/cd-serviceId: Python_AWS_Lambda
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: chrisjws-harness/idp-example
-    harness.io/pipelines: |
-      cd: https://app.harness.io/ng/account/6_vVHzo9Qeu9fXvj-AcbCQ/module/idp-admin/orgs/default/projects/Platform_Demo/pipelines/EndtoEnd_Pipeline_SVC_Redesign/pipeline-studio?storeType=INLINE
+    harness.io/project-url: 'https://app.harness.io/ng/account/6_vVHzo9Qeu9fXvj-AcbCQ/module/idp-admin/orgs/default/projects/Platform_Demo/pipelines/EndtoEnd_Pipeline_SVC_Redesign/pipeline-studio?storeType=INLINE'
