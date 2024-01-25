@@ -24,4 +24,4 @@ metadata:
   annotations:
     harness.io/cd-serviceId: Python_AWS_Lambda
     backstage.io/techdocs-ref: dir:.
-    github.com/project-slug: chrisjws-harness/python-lambda-starter
+
